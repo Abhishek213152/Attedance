@@ -1,0 +1,3362 @@
+[
+  {
+    "rollNo": "21CS101",
+    "name": "Rohan Dev",
+    "parentEmail": "rohan.dev@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS102",
+    "name": "Diya Patel",
+    "parentEmail": "diya.patel@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS103",
+    "name": "Aryan Singh",
+    "parentEmail": "aryan.singh@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS104",
+    "name": "Ananya Sharma",
+    "parentEmail": "ananya.sharma@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS105",
+    "name": "Vivaan Malhotra",
+    "parentEmail": "vivaan.malhotra@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS106",
+    "name": "Ishita Reddy",
+    "parentEmail": "ishita.reddy@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS107",
+    "name": "Aarav Khanna",
+    "parentEmail": "aarav.khanna@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS108",
+    "name": "Siya Joshi",
+    "parentEmail": "siya.joshi@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS109",
+    "name": "Advait Kumar",
+    "parentEmail": "advait.kumar@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS110",
+    "name": "Myra Bansal",
+    "parentEmail": "myra.bansal@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS111",
+    "name": "Virat Choudhary",
+    "parentEmail": "virat.choudhary@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS112",
+    "name": "Aadhya Mishra",
+    "parentEmail": "aadhya.mishra@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS113",
+    "name": "Atharv Agarwal",
+    "parentEmail": "atharv.agarwal@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS114",
+    "name": "Pari Saxena",
+    "parentEmail": "pari.saxena@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS115",
+    "name": "Ayaan Bhatia",
+    "parentEmail": "ayaan.bhatia@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS116",
+    "name": "Saanvi Nair",
+    "parentEmail": "saanvi.nair@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS117",
+    "name": "Dhruv Rao",
+    "parentEmail": "dhruv.rao@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS118",
+    "name": "Kiara Menon",
+    "parentEmail": "kiara.menon@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS119",
+    "name": "Vedant Iyer",
+    "parentEmail": "vedant.iyer@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS120",
+    "name": "Anika Chauhan",
+    "parentEmail": "anika.chauhan@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS121",
+    "name": "Kabir Thakur",
+    "parentEmail": "kabir.thakur@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS122",
+    "name": "Ira Pillai",
+    "parentEmail": "ira.pillai@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS123",
+    "name": "Shaurya Desai",
+    "parentEmail": "shaurya.desai@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS124",
+    "name": "Avni Hegde",
+    "parentEmail": "avni.hegde@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS125",
+    "name": "Arnav Chowdhury",
+    "parentEmail": "arnav.chowdhury@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS126",
+    "name": "Kyra Shetty",
+    "parentEmail": "kyra.shetty@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS127",
+    "name": "Reyansh Trivedi",
+    "parentEmail": "reyansh.trivedi@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS128",
+    "name": "Navya Venkatesh",
+    "parentEmail": "navya.venkatesh@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS129",
+    "name": "Vihaan Kapoor",
+    "parentEmail": "vihaan.kapoor@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS130",
+    "name": "Tara Iyer",
+    "parentEmail": "tara.iyer@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS131",
+    "name": "Ishaan Gupta",
+    "parentEmail": "ishaan.gupta@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS132",
+    "name": "Sara Yadav",
+    "parentEmail": "sara.yadav@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS133",
+    "name": "Rudra Singh",
+    "parentEmail": "rudra.singh@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS134",
+    "name": "Alia Mahajan",
+    "parentEmail": "alia.mahajan@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS135",
+    "name": "Advik Bhatt",
+    "parentEmail": "advik.bhatt@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS136",
+    "name": "Disha Negi",
+    "parentEmail": "disha.negi@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS137",
+    "name": "Yuvraj Prakash",
+    "parentEmail": "yuvraj.prakash@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS138",
+    "name": "Khushi Gandhi",
+    "parentEmail": "khushi.gandhi@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS139",
+    "name": "Aarush Mehra",
+    "parentEmail": "aarush.mehra@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS140",
+    "name": "Trisha Chakraborty",
+    "parentEmail": "trisha.chakraborty@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS141",
+    "name": "Madhav Naidu",
+    "parentEmail": "madhav.naidu@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS142",
+    "name": "Avisha Rathore",
+    "parentEmail": "avisha.rathore@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS143",
+    "name": "Aditya Varma",
+    "parentEmail": "aditya.varma@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS144",
+    "name": "Shanaya Mathur",
+    "parentEmail": "shanaya.mathur@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS145",
+    "name": "Ahaan Goel",
+    "parentEmail": "ahaan.goel@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS146",
+    "name": "Nitya Khanna",
+    "parentEmail": "nitya.khanna@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS147",
+    "name": "Aayan Verma",
+    "parentEmail": "aayan.verma@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS148",
+    "name": "Meera Nair",
+    "parentEmail": "meera.nair@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS149",
+    "name": "Shivansh Gill",
+    "parentEmail": "shivansh.gill@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS150",
+    "name": "Anvi Sharma",
+    "parentEmail": "anvi.sharma@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS151",
+    "name": "Krish Bajaj",
+    "parentEmail": "krish.bajaj@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS152",
+    "name": "Nyra Reddy",
+    "parentEmail": "nyra.reddy@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS153",
+    "name": "Vivaan Rao",
+    "parentEmail": "vivaan.rao@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS154",
+    "name": "Mira Patel",
+    "parentEmail": "mira.patel@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS155",
+    "name": "Rishaan Kumar",
+    "parentEmail": "rishaan.kumar@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS156",
+    "name": "Eva Chauhan",
+    "parentEmail": "eva.chauhan@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS157",
+    "name": "Darsh Joshi",
+    "parentEmail": "darsh.joshi@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS158",
+    "name": "Samara Saxena",
+    "parentEmail": "samara.saxena@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS159",
+    "name": "Aviraj Malhotra",
+    "parentEmail": "aviraj.malhotra@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS160",
+    "name": "Anaisha Sharma",
+    "parentEmail": "anaisha.sharma@example.com",
+    "department": "CSE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS201",
+    "name": "Riya Sharma",
+    "parentEmail": "riya.sharma@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS202",
+    "name": "Karan Mehta",
+    "parentEmail": "karan.mehta@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS203",
+    "name": "Nisha Verma",
+    "parentEmail": "nisha.verma@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS204",
+    "name": "Rohan Gupta",
+    "parentEmail": "rohan.gupta@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS205",
+    "name": "Sneha Iyer",
+    "parentEmail": "sneha.iyer@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS206",
+    "name": "Vikram Singh",
+    "parentEmail": "vikram.singh@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS207",
+    "name": "Anjali Joshi",
+    "parentEmail": "anjali.joshi@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS208",
+    "name": "Rahul Nair",
+    "parentEmail": "rahul.nair@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS209",
+    "name": "Pooja Reddy",
+    "parentEmail": "pooja.reddy@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21CS210",
+    "name": "Aarav Bansal",
+    "parentEmail": "aarav.bansal@example.com",
+    "department": "CSE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT101",
+    "name": "Ishaan Kapoor",
+    "parentEmail": "ishaan.kapoor@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT102",
+    "name": "Zara Khan",
+    "parentEmail": "zara.khan@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT103",
+    "name": "Kabir Sharma",
+    "parentEmail": "kabir.sharma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT104",
+    "name": "Aisha Basu",
+    "parentEmail": "aisha.basu@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT105",
+    "name": "Vihan Choudhury",
+    "parentEmail": "vihan.choudhury@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT106",
+    "name": "Kyra Agarwal",
+    "parentEmail": "kyra.agarwal@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT107",
+    "name": "Aarav Malik",
+    "parentEmail": "aarav.malik@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT108",
+    "name": "Sara Patel",
+    "parentEmail": "sara.patel@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT109",
+    "name": "Arjun Reddy",
+    "parentEmail": "arjun.reddy@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT110",
+    "name": "Anvi Desai",
+    "parentEmail": "anvi.desai@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT111",
+    "name": "Vivaan Das",
+    "parentEmail": "vivaan.das@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT112",
+    "name": "Zoya Mehta",
+    "parentEmail": "zoya.mehta@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT113",
+    "name": "Shaurya Kapoor",
+    "parentEmail": "shaurya.kapoor@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT114",
+    "name": "Myra Jain",
+    "parentEmail": "myra.jain@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT115",
+    "name": "Aaditya Singh",
+    "parentEmail": "aaditya.singh@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT116",
+    "name": "Pari Gupta",
+    "parentEmail": "pari.gupta@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT117",
+    "name": "Armaan Khanna",
+    "parentEmail": "armaan.khanna@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT118",
+    "name": "Ananya Nair",
+    "parentEmail": "ananya.nair@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT119",
+    "name": "Dhruv Verma",
+    "parentEmail": "dhruv.verma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT120",
+    "name": "Riya Kumar",
+    "parentEmail": "riya.kumar@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT121",
+    "name": "Ayaan Rao",
+    "parentEmail": "ayaan.rao@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT122",
+    "name": "Diya Chauhan",
+    "parentEmail": "diya.chauhan@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT123",
+    "name": "Virat Mishra",
+    "parentEmail": "virat.mishra@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT124",
+    "name": "Aarohi Sharma",
+    "parentEmail": "aarohi.sharma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT125",
+    "name": "Kabir Iyer",
+    "parentEmail": "kabir.iyer@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT126",
+    "name": "Saanvi Malhotra",
+    "parentEmail": "saanvi.malhotra@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT127",
+    "name": "Arnav Pillai",
+    "parentEmail": "arnav.pillai@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT128",
+    "name": "Anika Shetty",
+    "parentEmail": "anika.shetty@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT129",
+    "name": "Reyansh Joshi",
+    "parentEmail": "reyansh.joshi@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT130",
+    "name": "Ira Thakur",
+    "parentEmail": "ira.thakur@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT131",
+    "name": "Advait Hegde",
+    "parentEmail": "advait.hegde@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT132",
+    "name": "Mira Bansal",
+    "parentEmail": "mira.bansal@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT133",
+    "name": "Veer Saxena",
+    "parentEmail": "veer.saxena@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT134",
+    "name": "Kiara Chowdhury",
+    "parentEmail": "kiara.chowdhury@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT135",
+    "name": "Ahaan Trivedi",
+    "parentEmail": "ahaan.trivedi@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT136",
+    "name": "Navya Venkatesh",
+    "parentEmail": "navya.venkatesh@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT137",
+    "name": "Ishaan Shah",
+    "parentEmail": "ishaan.shah@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT138",
+    "name": "Saisha Menon",
+    "parentEmail": "saisha.menon@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT139",
+    "name": "Aarush Bhatt",
+    "parentEmail": "aarush.bhatt@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT140",
+    "name": "Nitara Prakash",
+    "parentEmail": "nitara.prakash@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT141",
+    "name": "Rudra Mahajan",
+    "parentEmail": "rudra.mahajan@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT142",
+    "name": "Anaisha Gandhi",
+    "parentEmail": "anaisha.gandhi@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT143",
+    "name": "Atharv Negi",
+    "parentEmail": "atharv.negi@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT144",
+    "name": "Amaira Mehra",
+    "parentEmail": "amaira.mehr@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT145",
+    "name": "Vihaan Chakraborty",
+    "parentEmail": "vihaan.chakraborty@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT146",
+    "name": "Anaya Rathore",
+    "parentEmail": "anaya.rathore@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT147",
+    "name": "Madhav Varma",
+    "parentEmail": "madhav.varma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT148",
+    "name": "Trisha Mathur",
+    "parentEmail": "trisha.mathur@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT149",
+    "name": "Aayansh Goel",
+    "parentEmail": "aayansh.goel@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT150",
+    "name": "Avni Khanna",
+    "parentEmail": "avni.khanna@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT151",
+    "name": "Shivansh Verma",
+    "parentEmail": "shivansh.verma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT152",
+    "name": "Aditi Nair",
+    "parentEmail": "aditi.nair@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT153",
+    "name": "Rehan Gill",
+    "parentEmail": "rehan.gill@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT154",
+    "name": "Shanaya Sharma",
+    "parentEmail": "shanaya.sharma@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT155",
+    "name": "Yuvaan Bajaj",
+    "parentEmail": "yuvaan.bajaj@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT156",
+    "name": "Avisha Reddy",
+    "parentEmail": "avisha.reddy@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT157",
+    "name": "Neil Rao",
+    "parentEmail": "neil.rao@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT158",
+    "name": "Meera Patel",
+    "parentEmail": "meera.patel@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT159",
+    "name": "Krish Kumar",
+    "parentEmail": "krish.kumar@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT160",
+    "name": "Khushi Chauhan",
+    "parentEmail": "khushi.chauhan@example.com",
+    "department": "IT",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT201",
+    "name": "Maya Singh",
+    "parentEmail": "maya.singh@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT202",
+    "name": "Rehan Patel",
+    "parentEmail": "rehan.patel@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT203",
+    "name": "Aisha Gupta",
+    "parentEmail": "aisha.gupta@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT204",
+    "name": "Vedant Malhotra",
+    "parentEmail": "vedant.malhotra@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT205",
+    "name": "Kyra Sharma",
+    "parentEmail": "kyra.sharma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT206",
+    "name": "Aaditya Roy",
+    "parentEmail": "aaditya.roy@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT207",
+    "name": "Anya Bansal",
+    "parentEmail": "anya.bansal@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT208",
+    "name": "Virat Das",
+    "parentEmail": "virat.das@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT209",
+    "name": "Saanvi Kapoor",
+    "parentEmail": "saanvi.kapoor@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT210",
+    "name": "Arjun Mehta",
+    "parentEmail": "arjun.mehta@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT211",
+    "name": "Diya Jain",
+    "parentEmail": "diya.jain@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT212",
+    "name": "Ayaan Agarwal",
+    "parentEmail": "ayaan.agarwal@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT213",
+    "name": "Pari Khanna",
+    "parentEmail": "pari.khanna@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT214",
+    "name": "Veer Kumar",
+    "parentEmail": "veer.kumar@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT215",
+    "name": "Zara Nair",
+    "parentEmail": "zara.nair@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT216",
+    "name": "Arnav Verma",
+    "parentEmail": "arnav.verma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT217",
+    "name": "Myra Reddy",
+    "parentEmail": "myra.reddy@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT218",
+    "name": "Dhruv Rao",
+    "parentEmail": "dhruv.rao@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT219",
+    "name": "Anvi Chauhan",
+    "parentEmail": "anvi.chauhan@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT220",
+    "name": "Ishaan Mishra",
+    "parentEmail": "ishaan.mishra@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT221",
+    "name": "Anaya Sharma",
+    "parentEmail": "anaya.sharma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT222",
+    "name": "Kabir Iyer",
+    "parentEmail": "kabir.iyer@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT223",
+    "name": "Sara Malhotra",
+    "parentEmail": "sara.malhotra@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT224",
+    "name": "Vivaan Pillai",
+    "parentEmail": "vivaan.pillai@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT225",
+    "name": "Anika Shetty",
+    "parentEmail": "anika.shetty@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT226",
+    "name": "Aarav Joshi",
+    "parentEmail": "aarav.joshi@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT227",
+    "name": "Mira Thakur",
+    "parentEmail": "mira.thakur@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT228",
+    "name": "Reyansh Hegde",
+    "parentEmail": "reyansh.hegde@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT229",
+    "name": "Kiara Chowdhury",
+    "parentEmail": "kiara.chowdhury@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT230",
+    "name": "Advait Trivedi",
+    "parentEmail": "advait.trivedi@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT231",
+    "name": "Saisha Venkatesh",
+    "parentEmail": "saisha.venkatesh@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT232",
+    "name": "Shaurya Shah",
+    "parentEmail": "shaura.shah@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT233",
+    "name": "Ira Menon",
+    "parentEmail": "ira.menon@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT234",
+    "name": "Aryan Bhatt",
+    "parentEmail": "aryan.bhatt@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT235",
+    "name": "Avni Prakash",
+    "parentEmail": "avni.prakash@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT236",
+    "name": "Vihaan Mahajan",
+    "parentEmail": "vihaan.mahajan@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT237",
+    "name": "Navya Gandhi",
+    "parentEmail": "navya.gandhi@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT238",
+    "name": "Rudra Negi",
+    "parentEmail": "rudra.negi@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT239",
+    "name": "Anvi Mehra",
+    "parentEmail": "anvi.mehr@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT240",
+    "name": "Ahaan Chakraborty",
+    "parentEmail": "ahaan.chakraborty@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT241",
+    "name": "Amaira Rathore",
+    "parentEmail": "amaira.rathore@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT242",
+    "name": "Aarush Varma",
+    "parentEmail": "aarush.varma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT243",
+    "name": "Trisha Mathur",
+    "parentEmail": "trisha.mathur@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT244",
+    "name": "Atharv Goel",
+    "parentEmail": "atharv.goel@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT245",
+    "name": "Nitara Khanna",
+    "parentEmail": "nitara.khanna@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT246",
+    "name": "Madhav Verma",
+    "parentEmail": "madhav.verma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT247",
+    "name": "Anaisha Nair",
+    "parentEmail": "anaisha.nair@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT248",
+    "name": "Shivansh Gill",
+    "parentEmail": "shivansh.gill@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT249",
+    "name": "Shanaya Sharma",
+    "parentEmail": "shanaya.sharma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT250",
+    "name": "Rehan Bajaj",
+    "parentEmail": "rehan.bajaj@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT251",
+    "name": "Avisha Reddy",
+    "parentEmail": "avisha.reddy@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT252",
+    "name": "Yuvaan Rao",
+    "parentEmail": "yuvaan.rao@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT253",
+    "name": "Meera Patel",
+    "parentEmail": "meera.patel@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT254",
+    "name": "Krish Kumar",
+    "parentEmail": "krish.kumar@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT255",
+    "name": "Khushi Chauhan",
+    "parentEmail": "khushi.chauhan@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT256",
+    "name": "Neil Joshi",
+    "parentEmail": "neil.joshi@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT257",
+    "name": "Aditi Saxena",
+    "parentEmail": "aditi.saxena@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT258",
+    "name": "Aayansh Malhotra",
+    "parentEmail": "aayansh.malhotra@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT259",
+    "name": "Eva Sharma",
+    "parentEmail": "eva.sharma@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21IT260",
+    "name": "Darsh Kumar",
+    "parentEmail": "darsh.kumar@example.com",
+    "department": "IT",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE035",
+    "name": "Abhishek Jha",
+    "parentEmail": "abhishek.jha@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE045",
+    "name": "Shruti Roy",
+    "parentEmail": "shruti.roy@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE037",
+    "name": "MD Nizamul Mustafa",
+    "parentEmail": "md.nizamul@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE089",
+    "name": "Aniket Roy",
+    "parentEmail": "aniket.roy@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE001",
+    "name": "Vimal Kumar",
+    "parentEmail": "vimal.kumar@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE002",
+    "name": "Anushka Sharma",
+    "parentEmail": "anushka.sharma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE003",
+    "name": "Raghav Mehta",
+    "parentEmail": "raghav.mehta@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE004",
+    "name": "Jhanvi Singh",
+    "parentEmail": "jhanvi.singh@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE005",
+    "name": "Aditya Khanna",
+    "parentEmail": "aditya.khanna@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE006",
+    "name": "Nisha Verma",
+    "parentEmail": "nisha.verma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE007",
+    "name": "Pranav Gupta",
+    "parentEmail": "pranav.gupta@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE008",
+    "name": "Shreya Patel",
+    "parentEmail": "shreya.patel@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE009",
+    "name": "Karan Malhotra",
+    "parentEmail": "karan.malhotra@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE010",
+    "name": "Divya Agarwal",
+    "parentEmail": "divya.agarwal@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE011",
+    "name": "Rohit Nair",
+    "parentEmail": "rohit.nair@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE012",
+    "name": "Neha Kapoor",
+    "parentEmail": "neha.kapoor@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE013",
+    "name": "Kunal Reddy",
+    "parentEmail": "kunal.reddy@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE014",
+    "name": "Pooja Iyer",
+    "parentEmail": "pooja.iyer@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE015",
+    "name": "Vikram Singh",
+    "parentEmail": "vikram.singh@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE016",
+    "name": "Tanvi Choudhary",
+    "parentEmail": "tanvi.choudhary@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE017",
+    "name": "Gaurav Joshi",
+    "parentEmail": "gaurav.joshi@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE018",
+    "name": "Priya Sharma",
+    "parentEmail": "priya.sharma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE019",
+    "name": "Manish Kumar",
+    "parentEmail": "manish.kumar@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE020",
+    "name": "Kritika Chauhan",
+    "parentEmail": "kritika.chauhan@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE021",
+    "name": "Vikas Rao",
+    "parentEmail": "vikas.rao@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE022",
+    "name": "Sanjana Mishra",
+    "parentEmail": "sanjana.mishra@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE023",
+    "name": "Deepak Menon",
+    "parentEmail": "deepak.menon@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE024",
+    "name": "Ritika Hegde",
+    "parentEmail": "ritika.hegde@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE025",
+    "name": "Nikhil Shetty",
+    "parentEmail": "nikhil.shetty@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE026",
+    "name": "Kavita Pillai",
+    "parentEmail": "kavita.pillai@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE027",
+    "name": "Rajat Saxena",
+    "parentEmail": "rajat.saxena@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE028",
+    "name": "Manju Venkatesh",
+    "parentEmail": "manju.venkatesh@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE029",
+    "name": "Suresh Thakur",
+    "parentEmail": "suresh.thakur@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE030",
+    "name": "Tanya Bhatt",
+    "parentEmail": "tanya.bhatt@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE031",
+    "name": "Prakash Mahajan",
+    "parentEmail": "prakash.mahajan@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE032",
+    "name": "Shalini Gandhi",
+    "parentEmail": "shalini.gandhi@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE033",
+    "name": "Vijay Negi",
+    "parentEmail": "vijay.negi@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE034",
+    "name": "Pallavi Mehra",
+    "parentEmail": "pallavi.mehra@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE036",
+    "name": "Rahul Chakraborty",
+    "parentEmail": "rahul.chakraborty@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE038",
+    "name": "Chitra Rathore",
+    "parentEmail": "chitra.rathore@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE039",
+    "name": "Siddharth Varma",
+    "parentEmail": "siddharth.varma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE040",
+    "name": "Kavya Mathur",
+    "parentEmail": "kavya.mathur@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE041",
+    "name": "Amit Goel",
+    "parentEmail": "amit.goel@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE042",
+    "name": "Sonali Khanna",
+    "parentEmail": "sonali.khanna@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE043",
+    "name": "Harsh Verma",
+    "parentEmail": "harsh.verma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE044",
+    "name": "Nandini Nair",
+    "parentEmail": "nandini.nair@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE046",
+    "name": "Rajesh Gill",
+    "parentEmail": "rajesh.gill@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE047",
+    "name": "Shweta Sharma",
+    "parentEmail": "shweta.sharma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE048",
+    "name": "Prateek Bajaj",
+    "parentEmail": "prateek.bajaj@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE049",
+    "name": "Anjali Reddy",
+    "parentEmail": "anjali.reddy@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE050",
+    "name": "Mohit Rao",
+    "parentEmail": "mohit.rao@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE051",
+    "name": "Ruchi Patel",
+    "parentEmail": "ruchi.patel@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE052",
+    "name": "Kamal Kumar",
+    "parentEmail": "kamal.kumar@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE053",
+    "name": "Preeti Chauhan",
+    "parentEmail": "preeti.chauhan@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE054",
+    "name": "Naveen Joshi",
+    "parentEmail": "naveen.joshi@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE055",
+    "name": "Shikha Saxena",
+    "parentEmail": "shikha.saxena@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE056",
+    "name": "Vinay Malhotra",
+    "parentEmail": "vinay.malhotra@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE057",
+    "name": "Asha Sharma",
+    "parentEmail": "asha.sharma@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE058",
+    "name": "Manoj Kumar",
+    "parentEmail": "manoj.kumar@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE059",
+    "name": "Rekha Singh",
+    "parentEmail": "rekha.singh@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE060",
+    "name": "Ajay Mehta",
+    "parentEmail": "ajay.mehta@example.com",
+    "department": "ECE",
+    "section": "1",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE201",
+    "name": "Maya Singh",
+    "parentEmail": "maya.singh@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE202",
+    "name": "Rehan Patel",
+    "parentEmail": "rehan.patel@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE203",
+    "name": "Aisha Gupta",
+    "parentEmail": "aisha.gupta@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE204",
+    "name": "Rajiv Kumar",
+    "parentEmail": "rajiv.kumar@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE205",
+    "name": "Priyanka Sharma",
+    "parentEmail": "priyanka.sharma@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE206",
+    "name": "Alok Verma",
+    "parentEmail": "alok.verma@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE207",
+    "name": "Neetu Agarwal",
+    "parentEmail": "neetu.agarwal@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE208",
+    "name": "Arun Mishra",
+    "parentEmail": "arun.mishra@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE209",
+    "name": "Swati Chauhan",
+    "parentEmail": "swati.chauhan@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE210",
+    "name": "Vijay Kapoor",
+    "parentEmail": "vijay.kapoor@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE211",
+    "name": "Rima Nair",
+    "parentEmail": "rima.nair@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE212",
+    "name": "Dinesh Reddy",
+    "parentEmail": "dinesh.reddy@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE213",
+    "name": "Geeta Joshi",
+    "parentEmail": "geeta.joshi@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE214",
+    "name": "Pankaj Rao",
+    "parentEmail": "pankaj.rao@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE215",
+    "name": "Monica Malhotra",
+    "parentEmail": "monica.malhotra@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE216",
+    "name": "Sanjay Iyer",
+    "parentEmail": "sanjay.iyer@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE217",
+    "name": "Lata Mehta",
+    "parentEmail": "lata.mehta@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE218",
+    "name": "Vivek Khanna",
+    "parentEmail": "vivek.khanna@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE219",
+    "name": "Jyoti Singh",
+    "parentEmail": "jyoti.singh@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE220",
+    "name": "Deepak Shetty",
+    "parentEmail": "deepak.shetty@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE221",
+    "name": "Mamta Pillai",
+    "parentEmail": "mamta.pillai@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE222",
+    "name": "Ramesh Hegde",
+    "parentEmail": "ramesh.hegde@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE223",
+    "name": "Smita Thakur",
+    "parentEmail": "smita.thakur@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE224",
+    "name": "Girish Chowdhury",
+    "parentEmail": "girish.chowdhury@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE225",
+    "name": "Sunita Trivedi",
+    "parentEmail": "sunita.trivedi@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE226",
+    "name": "Manoj Venkatesh",
+    "parentEmail": "manoj.venkatesh@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE227",
+    "name": "Asha Shah",
+    "parentEmail": "asha.shah@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE228",
+    "name": "Rajesh Menon",
+    "parentEmail": "rajesh.menon@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  },
+  {
+    "rollNo": "21ECE229",
+    "name": "Kamala Josi",
+    "parentEmail": "kamala.josi@example.com",
+    "department": "ECE",
+    "section": "2",
+    "attendance": {
+      "2025-03-01": "Present",
+      "2025-03-02": "Absent",
+      "2025-03-03": "Present"
+    }
+  }
+]
